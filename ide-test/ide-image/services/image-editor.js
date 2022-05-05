@@ -16,8 +16,7 @@ exports.getEditor = function () {
 		"factory": "frame",
 		"region": "center-top",
 		"label": "Image Viewer",
-		"link": "../ide-test/ide-test-inner/ide-image/editor.html",
-		"defaultEditor": true,
+		"link": "../ide-test/ide-image/editor.html",
 		"contentTypes": [
 			"image/jpeg",
 			"image/svg+xml",
